@@ -65,7 +65,7 @@ export default function Footer() {
           <div>
             <h4 className="text-lg font-semibold mb-4">Contact</h4>
             <div className="space-y-2 text-gray-400">
-              <p>Adex Cafe, Opposite University of Abuja(Old site), Gwagwalada, Abuja, Nigeria.</p>
+              <p>Adex Cafe, Opposite University of Abuja(Old Campus), Gwagwalada, Abuja, Nigeria.</p>
               <p>drakesammy0101@gmail.com</p>
               <p>+234 703 159 0997</p>
             </div>

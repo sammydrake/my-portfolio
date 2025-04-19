@@ -257,7 +257,7 @@ export default function Contact() {
                       Location
                     </h4>
                     <p className="text-gray-900 dark:text-white">
-                      Adex Cafe, Opposite University of Abuja (Old site), Gwagwalada, Abuja, Nigeria.
+                      Adex Cafe, Opposite University of Abuja (Old Campus), Gwagwalada, Abuja, Nigeria.
                     </p>
                   </div>
                 </div>
